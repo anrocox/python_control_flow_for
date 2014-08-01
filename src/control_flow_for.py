@@ -5,9 +5,9 @@ Created on Jul 23, 2014
 
 @author: anroco
 
-In Python, how to define a for loop inline?
+In Python, how to define a for loop?
 
-En Python, ¿Cómo se define un ciclo for en una linea de código?
+En Python, ¿Cómo se define un ciclo for?
 '''
 
 #the for loop iterate over the items of any sequence such as a list or a string
